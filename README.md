@@ -21,3 +21,6 @@ In this project, I will have access to approximately 50 datasets. Each one conta
 ![Capture1](https://user-images.githubusercontent.com/92561493/155034846-36fa1e98-f4f4-4e55-bba9-3c58d308e8cc.PNG)
 - 46.39% of nonvine members rated electronics with five stars.
 - 42.04% of vine members rated elelctronics with five stars.
+
+## Summary
+As we can see the analysis above, the number of vine members with five stars reivews is 454, which is 42.04% of the total vine members. with the limted number of vine members, the result could be biased. When we look at the nonvine members results: total number of nonvine reviews is 49673, total number nonvine members rated electronics with five stars is 23043, which is  46.39% of total nonvine reviews. The dataset is much larger than that of vine members, and the result is 46.39% vs 42.04%. I will conclude that there is little/slightly negative baiased because there is roughly 4% difference. We can improve by selecting all the reviews/vines/nonvines randomly to perform anlaysis. And we can test it with statsitical test such as t-test.
