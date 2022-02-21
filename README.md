@@ -8,3 +8,9 @@ In this project, I will have access to approximately 50 datasets. Each one conta
 - Total number of reviews for vine members is 1080
 - Total number of reviews for nonvine is 49673
 - Total number of reviews for nonvine is 50753
+![Capture3](https://user-images.githubusercontent.com/92561493/155034610-3b5ff1c2-b34f-4396-8b1e-a6b3604e82a8.PNG)
+![Capture5](https://user-images.githubusercontent.com/92561493/155034727-76a4c01c-d01b-4e79-8790-2a86779ce266.PNG)
+
+- Total nonvine members with five stars is 23043
+- Total vine members with five stars is 454
+- Total review with five stars is 23497 
