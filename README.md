@@ -7,7 +7,7 @@ In this project, I will have access to approximately 50 datasets. Each one conta
 ![Capture4](https://user-images.githubusercontent.com/92561493/155034482-733fc8e3-e79a-44a8-98c5-c50a3a161256.PNG)
 - Total number of reviews for vine members is 1080
 - Total number of reviews for nonvine is 49673
-- Total number of reviews for nonvine is 50753
+- Total number of reviews for vine and nonvine is 50753
 
 
 ![Capture3](https://user-images.githubusercontent.com/92561493/155034610-3b5ff1c2-b34f-4396-8b1e-a6b3604e82a8.PNG)
@@ -16,3 +16,8 @@ In this project, I will have access to approximately 50 datasets. Each one conta
 - Total nonvine members with five stars is 23043
 - Total vine members with five stars is 454
 - Total review with five stars is 23497 
+
+![Capture2](https://user-images.githubusercontent.com/92561493/155034842-46bf696c-a383-46ac-adb3-0fa90b7f4627.PNG)
+![Capture1](https://user-images.githubusercontent.com/92561493/155034846-36fa1e98-f4f4-4e55-bba9-3c58d308e8cc.PNG)
+- 46.39% of nonvine members rated electronics with five stars.
+- 42.04% of vine members rated elelctronics with five stars.
